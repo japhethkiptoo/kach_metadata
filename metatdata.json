@@ -2,6 +2,6 @@
    "name": "KaCh Token",
   "symbol": "KACH",
   "description": "KACHFi",
-  "image": "https://yourdomain.com/kach.png",
+  "image": "https://raw.githubusercontent.com/japhethkiptoo/kach_metadata/refs/heads/main/",
   "decimals": 6
 }
