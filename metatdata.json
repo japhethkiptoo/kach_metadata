@@ -1,4 +1,7 @@
-{
-  "name": "KACH",
-  "symbol": "KCH"
+ {
+   "name": "KaCh Token",
+  "symbol": "KACH",
+  "description": "KACHFi",
+  "image": "https://yourdomain.com/kach.png",
+  "decimals": 6
 }
